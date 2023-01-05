@@ -33,6 +33,10 @@ Shyam</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/shyam_tawli">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
+      
+### GitHub Stats 
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 
 
 
