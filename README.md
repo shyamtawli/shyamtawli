@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/shyamtawli" target="blank">
-Shyam</a></h1>
-<h3 align="center">A Passionate Developer from Indore, India &#127470;&#127475</h3>
-
-<p align="left"> <a href="https://twitter.com/shyam_tawli" target="blank"><img src="https://img.shields.io/twitter/follow/shyam_tawli?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
+# Hi 👋, I'm <a href="https://github.com/shyamtawli" target="blank">Shyam</a>
+<h3>A Passionate Developer from India &#127470;&#127475</h3>
+ <img src="https://komarev.com/ghpvc/?username=shyamtawli&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
@@ -16,31 +13,70 @@ Shyam</a></h1>
 
 - 💬 Ask me about **ReactJS & Java**
 
-- 📫 How to reach me **shyamtawli2@gmail.com**
-
-
-<h3 align="" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
 
- <div align=""  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/shyamtawli/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/shyamtawli">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/shyamtawli">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/shyam_tawli">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+<a href="https://leetcode.com/shyamtawli/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/shyamtawli">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="shyamtawli2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/shyam_tawli">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shyamtawli/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+## **About me** :
+
+- I Dig up 🕵️‍♀️real-world problems🌍and **Find Solutions** for them.
+- I 😍love to **Create and modify new products** and **Projects**👨‍💻.
+- I Focus on my **Problem-Solving Skill** and Trend Awareness🕵️‍♀️.
+- I 👨‍🏫Love to **Share** my **knowledge** and **experience** in **Public**.
+- Always excited and ready to **Learn New Skills👨‍🎓**.
+
+## **Languages and Tools**
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+	
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+
+</p>
+
+
       
-### GitHub Stats 
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+## **GitHub Stats** 
+<p align="center">
+<a href="https://github.com/shyamtawli" title="Redirect's to Shyam's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
+
+<a href="https://github.com/shyamtawli">
+<img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtawli&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 
-### Projects
+
+## **Projects**
 
 <!-- BLOG-POST-LIST:START -->
 
