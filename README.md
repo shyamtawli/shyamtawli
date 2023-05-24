@@ -73,16 +73,3 @@
 <a href="https://github.com/shyamtawli">
 <img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtawli&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-
-
-
-## **Projects**
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Tesla Website Clone using ReactJS](https://tesla-clone-shyamtawli.netlify.app/)
-- [Landing Page Responsive - dolla](https://dolla-responsive-shyamtawli.netlify.app/)
-- [YouTube Clone using HTML & CSS](https://youtube-clone-shyamtawli.netlify.app/)
-- [ToDo List using ReactJS](https://todo-react-shyamtawli.netlify.app/)
-- [Crypto Price Tracker using ReactJS](https://crypto-price-shyamtawli.netlify.app/)
-<!-- BLOG-POST-LIST:END -->
