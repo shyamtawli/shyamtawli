@@ -5,13 +5,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
 
-- 🌱 I’m currently Working on Web Development (ReactJS) and Java as Core Language.
+- 🌱 I’m currently Working on Web Development (NextJS) and Java as Core Language.
 
-- 🤝 I’m available for Jobs.
+- 🤝 I’m available for Jobs and freelance projects.
 
-- 🌱 I’m currently learning Advance ReactJS and Data Struture and Algorithm.
+- 🌱 I’m currently learning Advance ReactJS, NextJS.
 
-- 💬 Ask me about **ReactJS & Java**
+- 💬 Ask me about **ReactJS & NextJS**
 
 
 
