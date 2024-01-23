@@ -1,6 +1,6 @@
 # Hi 👋, I'm <a href="https://github.com/shyamtawli" target="blank">Shyam</a>
 <h3>A Passionate Developer from India &#127470;&#127475</h3>
- <img src="https://komarev.com/ghpvc/?username=shyamtawli&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
+ <img src="https://komarev.com/ghpvc/?username=shyamtawli&label=PROFILE%20VIEWS"  &color=red&style=flat" alt="jiganesh"/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
