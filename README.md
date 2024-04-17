@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> 
 
-- 🌱 I’m currently Working on Web Development (NextJS) and Java as Core Language.
+- 🌱 I’m currently Working on Full stack projects.
 
 - 🤝 I’m available for Jobs and freelance projects.
 
@@ -67,11 +67,6 @@
 
       
 ## **GitHub Stats** 
-<p align="center">
-<a href="https://github.com/shyamtawli" title="Redirect's to Shyam's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamtawli&show_icons=true&locale=en" alt="shyamtawli" /></p>
 
-<a href="https://github.com/shyamtawli">
-<img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtawli&theme=dark&theme=black-ice&stroke=0000" /></a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtawli&" alt="shyamtawli" /></p>
