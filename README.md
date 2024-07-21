@@ -9,7 +9,7 @@
 
 - 🤝 I’m available for Jobs and freelance projects.
 
-- 🌱 I’m currently learning Advance ReactJS, NextJS.
+- 🌱 I’m currently exploring Advance ReactJS, NextJS.
 
 - 💬 Ask me about **ReactJS & NextJS**
 
